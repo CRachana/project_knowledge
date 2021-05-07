@@ -1,0 +1,75 @@
+
+Linux commands:			
+
+1. echo: used to display the message
+
+$ echo "Hello World!"
+
+2. mkdir: used to create a new directory
+
+$ mkdir newdir1
+
+3. cd: used to change directory
+
+$ cd newdir1/
+
+4. cd .. (used to go to the previous directory)
+
+5. pwd: used to know the path location
+
+$ pwd
+
+6. vi: used to create, edit, modify a file
+
+$ vi hii.txt
+
+press insert key (fn + prtscrn)
+after editing the file press esc key
+type :wq --> to svae and exit
+type :q! --> exit without saving
+
+7. cp: used to copy a file
+
+$ cp hii.txt newdir2
+
+8. rm: used to remove file
+
+$ rm hii.txt
+
+9. mv: used to move a file
+
+$ mv hii.txt newdir3/
+
+10. whoami or who: used to show logged in user
+
+$ whoami
+
+$ who
+
+11. passwd: used to update user's authentication or password change
+
+$ passwd
+
+12. du: used to display the disk usage of a file
+
+$ du
+
+13. df: used to display the disk usage in a report
+
+$ df
+
+14. touch: used to create and modify a file
+
+$ touch hello.txt
+
+15. clear: used to clear a cmnd line
+
+$ clear
+
+16. history: used to display the history of cmnds used before by the user
+
+$ history
+
+17. wc: used to display the no.of newline, words and bytes of a file
+
+$ wc
